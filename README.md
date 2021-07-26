@@ -3,7 +3,7 @@ This is a website that generates a QR code box for any text entered. You can ent
 Coded using HTML and the JavaScript helps in working of QR generation with CSS for designs,colour and the animation effects.
 
 # How to use
-- Click on the link provided to go to the website.
+- Click on the link provided to go to the website. https://yayady1999.github.io/QR-code-generator/
 - Enter the text you want the code for.
 - Click ``ENTER``
 - The QR code is generated!
